@@ -7,7 +7,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Registration Page</title>
 </head>
-<body bgcolor="brown" text="white">
+<body bgcolor="red" text="white">
 
 <form:form method="POST" commandName="user">
 	<table>
@@ -77,4 +77,5 @@
 
 </body>
 </html>
+
 
